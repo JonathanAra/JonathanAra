@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Development Projects:</h2>
 
-- <b> (Terraform)</b>
+- <b>Terraform</b>
   - Creating IaC for Mobile app Development(Link to repository)
 - <b>Full Stack Web App (Terraform, AWS Services, CSS, HTML, Javascript)</b>
   - Built a Dev environment using Terraform(link to repository) <b><i>(Terraform)</b></i>
