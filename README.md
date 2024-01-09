@@ -3,12 +3,17 @@
 <h2>👨‍💻 Cloud Development Projects:</h2>
 
 - <b>Terraform</b>
-  - Creating IaC for Mobile app Development(Link to repository)
-  - Project Title: Mobile Application Development for Personal Trainers
+  - Creating IaC for Mobile app Development(Terraform)
+Project Title: Mobile Application Development for Personal Trainers
+
 Role: Lead Developer
+
 Objective: Develop a user-friendly mobile application akin to Uber, specifically tailored for personal trainers to connect with clients and offer training services in preferred environments.
+
 Responsibilities: Conceptualized and implemented the app's core functionality, integrating features for client-trainer matchmaking, scheduling, and location-based services. Led the backend development using AWS cloud services, emphasizing robust and scalable infrastructure.
+
 Technologies Used: AWS (various services), Infrastructure as Code (IaC) methodologies.
+
 Impact: Facilitated an innovative platform for personal trainers to expand their client base and operate flexibly, significantly contributing to the modernization of personal training services.
 - <b>Full Stack Web App (Terraform, AWS Services, CSS, HTML, Javascript)</b>
   - Built a Dev environment using Terraform(link to repository) <b><i>(Terraform)</b></i>
